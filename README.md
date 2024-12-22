@@ -72,3 +72,5 @@ data_preprocessing.ipynb: Veri işleme ve görselleştirme kodları.
 model_training.ipynb: Model oluşturma, eğitim ve değerlendirme kodları.
 
 evaluation.ipynb: Manipülasyon testleri ve sonuç karşılaştırmaları.
+
+Kaggle Linki: Kaggle Proje Linki
