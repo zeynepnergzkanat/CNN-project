@@ -73,4 +73,4 @@ model_training.ipynb: Model oluşturma, eğitim ve değerlendirme kodları.
 
 evaluation.ipynb: Manipülasyon testleri ve sonuç karşılaştırmaları.
 
-Kaggle Linki: Kaggle Proje Linki
+Kaggle Linki: https://www.kaggle.com/code/zeynepnergizkanat/cnnprjct
